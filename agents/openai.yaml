@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 简介翻译"
+  short_description: "把英文 Skill 简介整理成中文说明"
+  default_prompt: "Use $skill-description-translator to translate English skill descriptions into concise Chinese UI blurbs."
