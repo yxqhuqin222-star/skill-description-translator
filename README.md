@@ -10,6 +10,10 @@
 
 ## Preview
 
+处理后，Codex skill 选择器里的简介会变成更容易浏览的中文说明：
+
+![Codex skill 选择器中文简介效果图](docs/images/skill-picker-chinese-descriptions.png)
+
 扫描本机用户 skill 中英文偏重的简介：
 
 ```bash
